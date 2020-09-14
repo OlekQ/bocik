@@ -1,0 +1,2 @@
+# bocik
+Mój discordowy bocik
